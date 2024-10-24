@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:synque_work/screens/view_all_products_screen.dart';
+import 'package:synque_work/screens/crud/view_all_products_screen.dart';
 
 void main() {
   runApp(const MyApp());
